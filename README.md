@@ -19,7 +19,7 @@ This is a project that I completed using HTML, CSS, and Flexbox.
 
 ### Links
 
-- Live Site URL: ()
+- Live Site URL: (https://rtoddm.github.io/ethels-code-compendium/)
 
 ## My process
 
