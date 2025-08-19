@@ -1,4 +1,4 @@
-# Guess the Word
+# Code Compendium
 
 > [!NOTE]  
 > 🎯 **Learning Project** — This Guess the Word game was built with **HTML, CSS, and JavaScript** as part of a beginner challenge on [Frontend Mentor](https://www.frontendmentor.io/).  
